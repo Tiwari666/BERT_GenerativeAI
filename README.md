@@ -1,5 +1,36 @@
 # BERT_GenerativeAI
 
+BERT is a large-scale transformer-based Language Model that can be finetuned for a variety of tasks. expalin with example> what does it mean when we say "transformer-based Language Model"?
+ChatGPT.
+
+# Explnation of the definition the BERT model:
+
+When we say that BERT (Bidirectional Encoder Representations from Transformers) is a "transformer-based Language Model," we are referring to the underlying architecture and methodology used in BERT's design.
+
+
+
+Transformer-Based:
+
+The term "transformer-based" refers to the architecture of the model, which is based on the Transformer architecture introduced in the paper "Attention is All You Need" by Vaswani et al. in 2017.
+Transformers are a type of deep learning model architecture that relies heavily on attention mechanisms to capture dependencies between input and output tokens in a sequence. They have revolutionized many NLP tasks due to their ability to handle long-range dependencies more effectively than previous models like recurrent neural networks (RNNs) or convolutional neural networks (CNNs).
+In the case of BERT, the transformer architecture is used to process and encode input text sequences bidirectionally, allowing the model to understand context and meaning more comprehensively.
+Language Model:
+
+A language model is a statistical model that learns the probability distribution of sequences of words or tokens in a language. It can be used to predict the likelihood of a given sequence of words occurring in natural language.
+BERT is a language model in the sense that it learns to predict missing words or tokens in a sequence based on the context provided by the surrounding words. This process is done during pre-training, where BERT learns to represent words in a dense vector space based on their contextual usage in large text corpora.
+Example:
+Consider the sentence: "The cat sat on the mat."
+
+A traditional language model might process this sentence sequentially, from left to right or right to left, predicting the next word based on the previous words in the sequence.
+In contrast, BERT processes the entire sentence bidirectionally using the transformer architecture, allowing it to capture dependencies between all words in the sequence simultaneously.
+This bidirectional processing enables BERT to understand context more effectively and generate more accurate representations of the input text.
+
+In summary, when we say that BERT is a "transformer-based Language Model," we mean that it leverages the transformer architecture to process input text bidirectionally and learn representations of words based on their contextual usage in natural language text.
+
+
+
+
+
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based deep learning model developed by Google that has had a significant impact on various natural language processing (NLP) tasks in data science. It was introduced in the paper "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Jacob Devlin et al. from Google AI Language in 2018.
 
 An overview of the BERT model and its significance in data science are as follows:
