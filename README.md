@@ -3,7 +3,7 @@
 BERT is a large-scale transformer-based Language Model that can be finetuned for a variety of tasks. expalin with example> what does it mean when we say "transformer-based Language Model"?
 ChatGPT.
 
-# Explnation of the definition the BERT model:
+# Explanation of the definition the BERT model:
 
 When we say that BERT (Bidirectional Encoder Representations from Transformers) is a "transformer-based Language Model," we are referring to the underlying architecture and methodology used in BERT's design.
 
