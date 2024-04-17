@@ -30,7 +30,7 @@ In summary, when we say that BERT is a "transformer-based Language Model," we me
 
 
 
-
+# BERT:
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based deep learning model developed by Google that has had a significant impact on various natural language processing (NLP) tasks in data science. It was introduced in the paper "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Jacob Devlin et al. from Google AI Language in 2018.
 
 An overview of the BERT model and its significance in data science are as follows:
