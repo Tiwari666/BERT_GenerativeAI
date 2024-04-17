@@ -113,6 +113,7 @@ In summary, tokenizing breaks text into smaller units (tokens), padding ensures 
 
 # Sources:
 Link1: https://www.linkedin.com/advice/0/how-do-you-compare-contrast-bert-other-deep-learning
+
 Link2: Various online sources
 
 
