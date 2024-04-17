@@ -68,6 +68,8 @@ In NLP tasks like text classification or sentiment analysis, padding ensures tha
 Typically, padding involves adding zeros or special tokens to the beginning or end of sequences until they reach a predefined maximum length.
 For example, if the maximum sequence length is 10 and a sentence has only 7 tokens, it might be padded to ["I", "love", "natural", "language", "processing", 0, 0, 0, 0, 0].
 
+In this example, the sentence has 5 real tokens ("I", "love", "natural", "language", "processing"), and the remaining 5 slots are filled with padding tokens (zeros) to reach the maximum sequence length of 10. So, the sentence indeed has 5 tokens in total, including the padding tokens.
+
 C) Masking:
 
 Masking is a technique used in sequence-to-sequence models to indicate which elements of the input sequence should be ignored during processing.
