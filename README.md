@@ -97,7 +97,7 @@ B) Padding:
 Padding is the process of adding special tokens to sequences of different lengths to make them uniform in size.
 In NLP tasks like text classification or sentiment analysis, padding ensures that all input sequences have the same length, which is necessary for batch processing in deep learning models.
 Typically, padding involves adding zeros or special tokens to the beginning or end of sequences until they reach a predefined maximum length.
-For example, if the maximum sequence length is 10 and a sentence has only 7 tokens, it might be padded to ["I", "love", "natural", "language", "processing", 0, 0, 0, 0, 0].
+For example, if the maximum sequence length is 10 and a sentence has only 5 tokens, it might be padded to ["I", "love", "natural", "language", "processing", 0, 0, 0, 0, 0].
 
 In this example, the sentence has 5 real tokens ("I", "love", "natural", "language", "processing"), and the remaining 5 slots are filled with padding tokens (zeros) to reach the maximum sequence length of 10. So, the sentence indeed has 5 tokens in total, including the padding tokens.
 
