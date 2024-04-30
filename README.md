@@ -1,7 +1,6 @@
 # BERT_GenerativeAI
 
-BERT (one of the LLMs) is a large-scale transformer-based Language Model that can be finetuned for a variety of tasks. expalin with example> what does it mean when we say "transformer-based Language Model"?
-ChatGPT.
+BERT (one of the LLMs) is a large-scale transformer-based Language Model that can be finetuned for a variety of tasks. 
 
 In Large language models (LLMs) like GPT-4 and BERT, sentiment analysis surpasses conventional methods by accurately recognizing subtle emotions and contexts.
 
